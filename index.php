@@ -77,10 +77,10 @@
 						<hr />
 						<p>New Messages: <font color="#4e6a1b">{new_message}</font><span style="float:right"><a class="button" href="./?page=inbox">inbox</a>&nbsp;<a class="button" href="./?page=new_message">new</a></span></p>
 						<hr />
-						<p>Site Rank : <span>{user_rank}</span></p>
+						<p>Account Status:<span>{user_rank}</span></p>
 						<p>Banned: {user_banned}</p>
-						<p>You have <font color="#4e6a1b">{vp}</font> vote points to spend</p>
-						<p>You have <font color="#4e6a1b">{dp}</font> donation points to spend</p>
+						<p>Vote Points:<font color="#4e6a1b">{vp}</font>.</p>
+						<p>Donation Points:<font color="#4e6a1b">{dp}</font>.</p>
 						{/user_data}
 					-}{/login}
 					{login=
