@@ -4,7 +4,7 @@
 	<div class="box">
 		<div class="title">404 - <span>Site Error</span></div>
 		<div class="body">
-			<p>The page you requested, is invalid, or temporarily unavailable. Please check your spelling , and try again. If you feel you have reached this page in error, please contact the site administrator.</p>
+			<p>It appears the page you are trying to access is either not here, or closed. Contact support for more information.</p>
 		</div>
 		<div class="bottom"></div>
 	</div>
